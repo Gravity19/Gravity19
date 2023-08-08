@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Yabets Urgo</h1>
 <h3 align="center">A passionate Web Developer and AI Enthusiast from Ethiopia</h3>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gravity19&label=Profile%20views&color=0e75b6&style=flat" alt="gravity19" /> </p>
