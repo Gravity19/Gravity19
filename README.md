@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue.Js and AWS**
 
-- 💬 Ask me about **MERN, Web Development, Python and AI**
+- 💬 Ask me about **Web Development, React, Python and AI**
 
 - 📫 How to reach me **YabetsUrgo@gmail.com**
 
